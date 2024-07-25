@@ -1,5 +1,5 @@
 ---
-title: Arabic verb conjugation
+title: Arabic irregular verb conjugations
 ---
 
 
