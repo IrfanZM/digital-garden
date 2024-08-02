@@ -16,8 +16,6 @@ A short overview of the different verb templates covered in my arabic classes (e
 9. [Template 8](#template_8){: .internal-link}
 10. [Template 9](#template_9){: .internal-link}
 11. [Template 10](#template_10){: .internal-link}
-12. [Verb conjugation rules](#verb_conjugation_rules){: .internal-link}
-
 
 ## Summary table <a name="summary_table"></a>
 
@@ -165,5 +163,3 @@ This template is known for its است before the ف kalimah (which means to seek
 
 Example verbs:
 - إِسْتَغْفَرَ - he sought forgiveness
-
-## Verb conjugation rules <a name="verb_conjugation_rules"></a>
